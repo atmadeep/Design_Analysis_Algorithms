@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Design_Analysis_Algorithms"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Stack">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Stack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Stack"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Stack/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Stack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Stack/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Proirity_Queue">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Proirity_Queue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proirity_Queue"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Proirity_Queue/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Proirity_Queue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proirity_Queue/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AVL_Trees">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/AVL_Trees" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 AVL_Trees"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AVL_Trees/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/AVL_Trees" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 AVL_Trees/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Topological_sort">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Topological_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Topological_sort"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Topological_sort/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Topological_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Topological_sort/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tower_Hanoi">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Tower_Hanoi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tower_Hanoi"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tower_Hanoi/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Tower_Hanoi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tower_Hanoi/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Binary_search">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Binary_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Binary_search"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Binary_search/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Binary_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Binary_search/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Heap_sort_min">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Heap_sort_min" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Heap_sort_min"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Heap_sort_min/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Heap_sort_min" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Heap_sort_min/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Quick_sort">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Quick_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Quick_sort"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Quick_sort/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Quick_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Quick_sort/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Binary_Trees">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Binary_Trees" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Binary_Trees"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Binary_Trees/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Binary_Trees" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Binary_Trees/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bubble_sort">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Bubble_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bubble_sort"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bubble_sort/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Bubble_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bubble_sort/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Design_Analysis_Algorithms">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Design_Analysis_Algorithms" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Design_Analysis_Algorithms"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Design_Analysis_Algorithms/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Design_Analysis_Algorithms" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Design_Analysis_Algorithms/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Merge_sort">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Merge_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Merge_sort"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Merge_sort/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Merge_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Merge_sort/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Heap_sort">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Heap_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Heap_sort"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Heap_sort/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Heap_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Heap_sort/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Prim">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Prim" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Prim"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Prim/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Prim" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Prim/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Insertion_Sort">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Insertion_Sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Insertion_Sort"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Insertion_Sort/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Insertion_Sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Insertion_Sort/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Binomial_Coefficient">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Binomial_Coefficient" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Binomial_Coefficient"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Binomial_Coefficient/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Binomial_Coefficient" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Binomial_Coefficient/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Trees">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Trees" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Trees"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Trees/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Trees" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Trees/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Shortest_Path_Matrix">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Shortest_Path_Matrix" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Shortest_Path_Matrix"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Shortest_Path_Matrix/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Shortest_Path_Matrix" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Shortest_Path_Matrix/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Depth_first_search">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Depth_first_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Depth_first_search"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Depth_first_search/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Depth_first_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Depth_first_search/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Horner">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Horner" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Horner"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Horner/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Horner" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Horner/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dijkstra">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Dijkstra" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dijkstra"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dijkstra/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Dijkstra" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dijkstra/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Linked_list">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Linked_list" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linked_list"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Linked_list/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Linked_list" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linked_list/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Trials">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Trials" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Trials"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Trials/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Trials" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Trials/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Queue">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Queue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Queue"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Queue/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Queue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Queue/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Warshall_bool">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Warshall_bool" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Warshall_bool"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Warshall_bool/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Warshall_bool" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Warshall_bool/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0_1Knapsack">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/0_1Knapsack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 0_1Knapsack"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0_1Knapsack/fast">
+				<Option output="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/0_1Knapsack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 0_1Knapsack/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/.idea/Binary_Trees.cpp">
+			<Option target="Binary_Trees"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/.idea/Dijkstra.cpp">
+			<Option target="Dijkstra"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/.idea/Horner.cpp">
+			<Option target="Horner"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/.idea/Trees.cpp">
+			<Option target="Trees"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/.idea/Trees.h">
+			<Option target="Trees"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/.idea/Trials.cpp">
+			<Option target="Trials"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/0_1Knapsack.cpp">
+			<Option target="0_1Knapsack"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/AVL_Trees.cpp">
+			<Option target="AVL_Trees"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Binary_search.cpp">
+			<Option target="Binary_search"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Binomial_Coefficient.cpp">
+			<Option target="Binomial_Coefficient"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Bubble_sort.cpp">
+			<Option target="Bubble_sort"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Depth_first_search.cpp">
+			<Option target="Depth_first_search"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Heap_sort.cpp">
+			<Option target="Heap_sort"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Heap_sort_min.cpp">
+			<Option target="Heap_sort_min"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Insertion_Sort.cpp">
+			<Option target="Insertion_Sort"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Linked_list.cpp">
+			<Option target="Linked_list"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Merge_sort.cpp">
+			<Option target="Merge_sort"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Prim.cpp">
+			<Option target="Prim"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Proirity_Queue.cpp">
+			<Option target="Proirity_Queue"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Queue.cpp">
+			<Option target="Queue"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Quick_sort.cpp">
+			<Option target="Quick_sort"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Shortest_Path_Matrix.cpp">
+			<Option target="Shortest_Path_Matrix"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Stack.cpp">
+			<Option target="Stack"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Topological_sort.cpp">
+			<Option target="Topological_sort"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Tower_Hanoi.cpp">
+			<Option target="Tower_Hanoi"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Warshall_bool.cpp">
+			<Option target="Warshall_bool"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/main.cpp">
+			<Option target="Design_Analysis_Algorithms"/>
+		</Unit>
+		<Unit filename="/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

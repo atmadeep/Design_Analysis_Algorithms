@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/atmadeep/CLionProjects/Design_Analysis_Algorithms/.idea/Dijkstra.cpp
+iostream
+-
+algorithm
+-
+

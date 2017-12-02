@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Proirity_Queue.dir/Proirity_Queue.cpp.o  -o Proirity_Queue 

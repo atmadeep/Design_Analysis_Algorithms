@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Horner.dir/.idea/Horner.cpp.o  -o Horner 

@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Design_Analysis_Algorithms" targetName="Depth_first_search" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Warshall_bool" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Insertion_Sort" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Stack" />
+      <config projectName="Design_Analysis_Algorithms" targetName="0_1Knapsack" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Queue" />
+      <config projectName="Design_Analysis_Algorithms" targetName="AVL_Trees" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Trials" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Binary_search" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Quick_sort" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Binomial_Coefficient" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Topological_sort" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Proirity_Queue" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Dijkstra" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Tower_Hanoi" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Prim" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Shortest_Path_Matrix" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Trees" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Linked_list" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Design_Analysis_Algorithms" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Horner" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Heap_sort" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Merge_sort" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Bubble_sort" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Binary_Trees" />
+      <config projectName="Design_Analysis_Algorithms" targetName="Heap_sort_min" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4327bfec-d600-4d70-85f7-8e5ffc974584" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Linked_list.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Linked_list.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Proirity_Queue.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Proirity_Queue.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>vector&lt;int&gt;</find>
+      <find>s</find>
+      <find>print_</find>
+      <find>struct</find>
+      <find>en</find>
+      <find>enEN</find>
+      <find>queue</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Merger_Sort.cpp" />
+        <option value="$PROJECT_DIR$/Bubble_sort.cpp" />
+        <option value="$PROJECT_DIR$/Binary_search.cpp" />
+        <option value="$PROJECT_DIR$/Insertion_Sort.cpp" />
+        <option value="$PROJECT_DIR$/Shortest_Path_Matrix.cpp" />
+        <option value="$PROJECT_DIR$/adj_mtrx.txt" />
+        <option value="$PROJECT_DIR$/Topological_sort.cpp" />
+        <option value="$PROJECT_DIR$/.idea/Trees.cpp" />
+        <option value="$PROJECT_DIR$/.idea/Binary_Trees.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Horner's_poly.cpp" />
+        <option value="$PROJECT_DIR$/Depth_first_search.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/Floyd's Algorithm.cpp" />
+        <option value="$PROJECT_DIR$/.idea/Dijkstra.cpp" />
+        <option value="$PROJECT_DIR$/.idea/Trials.cpp" />
+        <option value="$PROJECT_DIR$/Prim.cpp" />
+        <option value="$PROJECT_DIR$/Binomial_Coefficient.cpp" />
+        <option value="$PROJECT_DIR$/Merge_sort.cpp" />
+        <option value="$PROJECT_DIR$/bool_matrix.txt" />
+        <option value="$PROJECT_DIR$/Warshall_bool.cpp" />
+        <option value="$PROJECT_DIR$/Quick_sort.cpp" />
+        <option value="$PROJECT_DIR$/0_1Knapsack.cpp" />
+        <option value="$PROJECT_DIR$/Heap_sort.cpp" />
+        <option value="$PROJECT_DIR$/Heap_sort_min.cpp" />
+        <option value="$PROJECT_DIR$/Tower_Hanoi.cpp" />
+        <option value="$PROJECT_DIR$/.idea/Horner.cpp" />
+        <option value="$PROJECT_DIR$/Queue.cpp" />
+        <option value="$PROJECT_DIR$/Stack.cpp" />
+        <option value="$PROJECT_DIR$/Proirity_Queue.cpp" />
+        <option value="$PROJECT_DIR$/Linked_list.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
+    <option name="y" value="26" />
+    <option name="width" value="960" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="SearchEverywhereHistoryKey" value="Pr&#9;FILE&#9;file:///home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Proirity_Queue.cpp&#10;cma&#9;FILE&#9;file:///home/atmadeep/CLionProjects/Design_Analysis_Algorithms/CMakeLists.txt&#10;di&#9;FILE&#9;file:///home/atmadeep/CLionProjects/Design_Analysis_Algorithms/.idea/Dijkstra.cpp&#10;h&#9;FILE&#9;file:///home/atmadeep/CLionProjects/Design_Analysis_Algorithms/.idea/Horner.cpp&#10;q&#9;FILE&#9;file:///home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Quick_sort.cpp&#10;sh&#9;FILE&#9;file:///home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Shortest_Path_Matrix.cpp&#10;w&#9;FILE&#9;file:///usr/include/boost/graph/floyd_warshall_shortest.hpp&#10;m&#9;FILE&#9;file:///home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Merge_sort.cpp&#10;quick&#9;FILE&#9;file:///usr/include/c++/6/parallel/quicksort.h&#10;qui&#9;FILE&#9;file:///home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Quick_sort.cpp&#10;hor&#9;FILE&#9;file:///home/atmadeep/CLionProjects/Design_Analysis_Algorithms/.idea/Horner.cpp&#10;short&#9;FILE&#9;file:///home/atmadeep/CLionProjects/Design_Analysis_Algorithms/Shortest_Path_Matrix.cpp&#10;warsh&#9;FILE&#9;file:///usr/include/boost/graph/floyd_warshall_shortest.hpp&#10;to&#9;ACTION&#9;ActivateTODOToolWindow" />
+    <property name="TODO_SCOPE" value="All Places" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Stack">
+    <configuration name="0_1Knapsack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="0_1Knapsack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="0_1Knapsack">
+      <envs />
+    </configuration>
+    <configuration name="AVL_Trees" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="AVL_Trees" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="AVL_Trees">
+      <envs />
+    </configuration>
+    <configuration name="Binary_Trees" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Binary_Trees" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Binary_Trees">
+      <envs />
+    </configuration>
+    <configuration name="Binary_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Binary_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Binary_search">
+      <envs />
+    </configuration>
+    <configuration name="Binomial_Coefficient" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Binomial_Coefficient" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Binomial_Coefficient">
+      <envs />
+    </configuration>
+    <configuration name="Bubble_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Bubble_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Bubble_sort">
+      <envs />
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Insertion_Sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Insertion_Sort">
+      <envs />
+    </configuration>
+    <configuration name="Depth_first_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Depth_first_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Depth_first_search">
+      <envs />
+    </configuration>
+    <configuration name="Design_Analysis_Algorithms" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Design_Analysis_Algorithms" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Design_Analysis_Algorithms">
+      <envs />
+    </configuration>
+    <configuration name="Dijkstra" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Dijkstra" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Dijkstra">
+      <envs />
+    </configuration>
+    <configuration name="Heap_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Heap_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Heap_sort">
+      <envs />
+    </configuration>
+    <configuration name="Heap_sort_min" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Heap_sort_min" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Heap_sort_min">
+      <envs />
+    </configuration>
+    <configuration name="Horner" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Horner" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Horner">
+      <envs />
+    </configuration>
+    <configuration name="Insertion_Sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Insertion_Sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Insertion_Sort">
+      <envs />
+    </configuration>
+    <configuration name="Linked_list" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Linked_list" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Linked_list">
+      <envs />
+    </configuration>
+    <configuration name="Merge_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Merge_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Merge_sort">
+      <envs />
+    </configuration>
+    <configuration name="Prim" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Prim" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Prim">
+      <envs />
+    </configuration>
+    <configuration name="Proirity_Queue" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Proirity_Queue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Proirity_Queue">
+      <envs />
+    </configuration>
+    <configuration name="Queue" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Queue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Queue">
+      <envs />
+    </configuration>
+    <configuration name="Quick_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Quick_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Quick_sort">
+      <envs />
+    </configuration>
+    <configuration name="Shortest_Path_Matrix" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Shortest_Path_Matrix" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Shortest_Path_Matrix">
+      <envs />
+    </configuration>
+    <configuration name="Stack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Stack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Stack">
+      <envs />
+    </configuration>
+    <configuration name="Topological_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Topological_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Topological_sort">
+      <envs />
+    </configuration>
+    <configuration name="Tower_Hanoi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Tower_Hanoi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Tower_Hanoi">
+      <envs />
+    </configuration>
+    <configuration name="Trees" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Trees" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Trees">
+      <envs />
+    </configuration>
+    <configuration name="Trials" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Trials" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Trials">
+      <envs />
+    </configuration>
+    <configuration name="Warshall_bool" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Design_Analysis_Algorithms" TARGET_NAME="Warshall_bool" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Design_Analysis_Algorithms" RUN_TARGET_NAME="Warshall_bool">
+      <envs />
+    </configuration>
+    <list size="27">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.0_1Knapsack" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AVL_Trees" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Binary_search" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Binary_Trees" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Binomial_Coefficient" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Bubble_sort" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Depth_first_search" />
+      <item index="8" class="java.lang.String" itemvalue="Application.Design_Analysis_Algorithms" />
+      <item index="9" class="java.lang.String" itemvalue="Application.Dijkstra" />
+      <item index="10" class="java.lang.String" itemvalue="Application.Heap_sort" />
+      <item index="11" class="java.lang.String" itemvalue="Application.Heap_sort_min" />
+      <item index="12" class="java.lang.String" itemvalue="Application.Horner" />
+      <item index="13" class="java.lang.String" itemvalue="Application.Insertion_Sort" />
+      <item index="14" class="java.lang.String" itemvalue="Application.Linked_list" />
+      <item index="15" class="java.lang.String" itemvalue="Application.Merge_sort" />
+      <item index="16" class="java.lang.String" itemvalue="Application.Prim" />
+      <item index="17" class="java.lang.String" itemvalue="Application.Proirity_Queue" />
+      <item index="18" class="java.lang.String" itemvalue="Application.Queue" />
+      <item index="19" class="java.lang.String" itemvalue="Application.Quick_sort" />
+      <item index="20" class="java.lang.String" itemvalue="Application.Shortest_Path_Matrix" />
+      <item index="21" class="java.lang.String" itemvalue="Application.Stack" />
+      <item index="22" class="java.lang.String" itemvalue="Application.Topological_sort" />
+      <item index="23" class="java.lang.String" itemvalue="Application.Tower_Hanoi" />
+      <item index="24" class="java.lang.String" itemvalue="Application.Trees" />
+      <item index="25" class="java.lang.String" itemvalue="Application.Trials" />
+      <item index="26" class="java.lang.String" itemvalue="Application.Warshall_bool" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4327bfec-d600-4d70-85f7-8e5ffc974584" name="Default" comment="" />
+      <created>1507917858156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512032403224</updated>
+      <workItem from="1507917859355" duration="2354000" />
+      <workItem from="1508082273127" duration="5674000" />
+      <workItem from="1508136764045" duration="7824000" />
+      <workItem from="1508166314539" duration="1894000" />
+      <workItem from="1508172712463" duration="135000" />
+      <workItem from="1508178199262" duration="1145000" />
+      <workItem from="1505655741975" duration="1144000" />
+      <workItem from="1505640386700" duration="3000" />
+      <workItem from="1505656781957" duration="315000" />
+      <workItem from="1505669828127" duration="1211000" />
+      <workItem from="1505741145154" duration="752000" />
+      <workItem from="1505743369218" duration="2869000" />
+      <workItem from="1505834237473" duration="1567000" />
+      <workItem from="1505989693605" duration="231000" />
+      <workItem from="1506016353414" duration="657000" />
+      <workItem from="1506048595669" duration="827000" />
+      <workItem from="1506057170019" duration="2238000" />
+      <workItem from="1506070436513" duration="87000" />
+      <workItem from="1506092123913" duration="142000" />
+      <workItem from="1506180569166" duration="46000" />
+      <workItem from="1506328191965" duration="1439000" />
+      <workItem from="1506333031129" duration="153000" />
+      <workItem from="1506359870163" duration="80000" />
+      <workItem from="1506364005253" duration="2000" />
+      <workItem from="1506452361852" duration="4876000" />
+      <workItem from="1506683646968" duration="681000" />
+      <workItem from="1507456936276" duration="11000" />
+      <workItem from="1507799985134" duration="477000" />
+      <workItem from="1507911913020" duration="2581000" />
+      <workItem from="1508131199369" duration="673000" />
+      <workItem from="1509324190431" duration="1462000" />
+      <workItem from="1509694546165" duration="41000" />
+      <workItem from="1509981505840" duration="3125000" />
+      <workItem from="1510032311385" duration="3272000" />
+      <workItem from="1510056816032" duration="1912000" />
+      <workItem from="1510127259290" duration="610000" />
+      <workItem from="1510187208905" duration="48000" />
+      <workItem from="1510294758016" duration="1805000" />
+      <workItem from="1510470012923" duration="17008000" />
+      <workItem from="1510535357529" duration="7399000" />
+      <workItem from="1510850948911" duration="9637000" />
+      <workItem from="1510921751188" duration="97000" />
+      <workItem from="1510922311584" duration="3145000" />
+      <workItem from="1511069122235" duration="219000" />
+      <workItem from="1511110090096" duration="2668000" />
+      <workItem from="1511150186720" duration="1733000" />
+      <workItem from="1511167501856" duration="8716000" />
+      <workItem from="1511226886909" duration="5152000" />
+      <workItem from="1511283460083" duration="2910000" />
+      <workItem from="1511371547688" duration="23000" />
+      <workItem from="1511726203849" duration="56000" />
+      <workItem from="1512031177820" duration="647000" />
+      <workItem from="1512032403280" duration="291000" />
+      <workItem from="1512032911986" duration="8183000" />
+      <workItem from="1512144598715" duration="493000" />
+    </task>
+    <task id="LOCAL-00001" summary="Write all DAA lab programs">
+      <created>1512032193717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1512032403040</updated>
+      <workItem from="1512032197058" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="enabled" value="true" />
+    <option name="totallyTimeSpent" value="122740000" />
+    <option name="suspendDelayInSeconds" value="60" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="26" width="1920" height="1054" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946581" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.392316" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Time Tracking" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39824945" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32655367" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32655367" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.392316" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946581" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Time Tracking" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39824945" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Shortest_Path_Matrix.cpp</url>
+          <line>25</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Shortest_Path_Matrix.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Shortest_Path_Matrix.cpp</url>
+          <line>32</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Shortest_Path_Matrix.cpp</url>
+          <line>27</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Topological_sort.cpp</url>
+          <line>33</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Quick_sort.cpp</url>
+          <line>28</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Quick_sort.cpp</url>
+          <line>44</line>
+          <log-expression expression="i &lt; j" language="ObjectiveC" />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Quick_sort.cpp</url>
+          <line>29</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Quick_sort.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Quick_sort.cpp</url>
+          <line>37</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Quick_sort.cpp</url>
+          <line>39</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Quick_sort.cpp</url>
+          <line>36</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Quick_sort.cpp</url>
+          <line>45</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="36" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Quick_sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Insertion_Sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Merge_sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Insertion_Sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bubble_sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Insertion_Sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Merger_Sort.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Insertion_Sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Merger_Sort.cpp" />
+    <entry file="file://$PROJECT_DIR$/Merger_Sort.cpp" />
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Insertion_Sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topological_sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="59" column="30" lean-forward="false" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Trees.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Trees.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AVL_Trees.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Binary_Trees.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Depth_first_search.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Horner's_poly.cpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Floyd's Algorithm.cpp" />
+    <entry file="file://$PROJECT_DIR$/Prim.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binomial_Coefficient.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Trials.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/6/parallel/quicksort.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Merge_sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/graph/floyd_warshall_shortest.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bubble_sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bool_matrix.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Warshall_bool.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quick_sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shortest_Path_Matrix.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adj_mtrx.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary_search.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-303">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Horner.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tower_Hanoi.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Heap_sort_min.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_1Knapsack.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Heap_sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Dijkstra.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <folding>
+            <element signature="e#49#101#0" expanded="false" />
+            <element signature="e#806#1059#0" expanded="false" />
+            <element signature="e#1060#1159#0" expanded="false" />
+            <element signature="e#1160#1251#0" expanded="false" />
+            <element signature="e#1252#1383#0" expanded="false" />
+            <element signature="e#1384#1515#0" expanded="false" />
+            <element signature="e#1516#1628#0" expanded="false" />
+            <element signature="e#1629#1726#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queue.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proirity_Queue.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked_list.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

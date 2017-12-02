@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Trials.dir/.idea/Trials.cpp.o  -o Trials 

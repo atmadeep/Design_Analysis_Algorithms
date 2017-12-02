@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Heap_sort_min.dir/Heap_sort_min.cpp.o  -o Heap_sort_min 
